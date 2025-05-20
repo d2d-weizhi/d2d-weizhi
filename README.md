@@ -17,7 +17,7 @@ I continue to remain open to working opportunities and freelance gigs. Over the 
 
 For any consulting gigs, I'm currently charging S$75 an hour. 
 
-I also offer referral fees to people that recommend projects to me that have been successfully completed. Any gigs that are <= S$10, it's 5% referral fee. Another beyond S$10K, the referral fee will go up to 10%. The largest amount of referral fee I have ever given is S$4,800.00 because the single project alone was worth S$48,000 from start to finish.
+I also offer referral fees to people that recommend projects to me that have been successfully completed. Any gigs that are <= S$10K, it's 5% referral fee. Another beyond S$10K, the referral fee will go up to 10%. The largest amount of referral fee I have ever given is S$4,800.00 because the single project alone was worth S$48,000 from start to finish.
 
 ## 🌱 What I'm Learning Now
 
