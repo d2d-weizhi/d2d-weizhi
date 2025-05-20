@@ -19,6 +19,19 @@ For any consulting gigs, I'm currently charging S$75 an hour.
 
 I also offer referral fees to people that recommend projects to me that have been successfully completed. Any gigs that are <= S$10K, it's 5% referral fee. Anything beyond S$10K, the referral fee will go up to 10%. The largest amount of referral fee I have ever given is S$4,800.00 because the single project alone was worth S$48,000 from start to finish.
 
+## 🧑‍💻 Building Portfolio v2.0 (WIP)
+
+I'm currently working on a new portfolio for myself. After losing my first portfolio and all of my work back in 2018, I'm officially making a comeback. And I think that very first step of reentry for me is by being able to demonstrate and show-off my talents and skills. Instead of writing and posting about what I can do, I've discovered long ago that I have a talent for storytelling and demonstrating my skills/passions.
+
+So that is where I will focus most of my energy and effort (outside of my top priorities).
+
+For now though, I will begin with two new projects:
+
+1. [FocusFlow: A Pomodoro-inspired web app](https://github.com/d2d-weizhi/focus-flow)
+2. [AceIt: A Student Assignment Tracking Dashboard (WIP)](https://github.com/d2d-weizhi/aceit-web)
+
+For now, my goal remains the same, I want to focus on showcasing 3 web projects and 2 mobile projects. So, I'm starting with the above two. When it comes to the mobile app projects, my hope to to be able to build one using Flutter (cross-platform showcase), and the second one will be using native iOS (Swift）and Android (Kotlin). I will share more updates on this profile README in the weeks and months to come.
+
 ## 🌱 What I'm Learning Now
 
 I'm currently in the final stretch of my part-time post-Diploma course in UX Design & Management. So yeah, it's the final stretch. It is also why I'm taking a break from my portfolio work (updated as of 20th May). I'll still continue to work quietly and share my daily logs on the showcase project, but otherwise, I'm basically taking a step back while I focus on my top priorities.
