@@ -28,7 +28,7 @@ So that is where I will focus most of my energy and effort (outside of my top pr
 For now though, I will begin with two new projects:
 
 1. [FocusFlow: A Pomodoro-inspired web app](https://github.com/d2d-weizhi/focus-flow)
-2. [AceIt: A Student Assignment Tracking Dashboard (WIP)](https://github.com/d2d-weizhi/aceit-web)
+2. [AceIt Dashboard (WIP)](https://github.com/d2d-weizhi/aceit-dashboard)
 
 For now, my goal remains the same, I want to focus on showcasing 3 web projects and 2 mobile projects. So, I'm starting with the above two. When it comes to the mobile app projects, my hope to to be able to build one using Flutter (cross-platform showcase), and the second one will be using native iOS (Swift）and Android (Kotlin). I will share more updates on this profile README in the weeks and months to come.
 
