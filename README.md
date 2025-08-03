@@ -9,7 +9,7 @@ In the course of pursuing my passions, I also discovered that my front-end skill
 3. I'm a certified thought-leader in Agile UX since 2016.
 4. I'm a 4x featured technical writer.
 5. No. 1 Front-end Developer & UX Engineer
-6. Top Rising Voice (2025) in both fields
+6. Global Top Voices in the UX Industry
 
 ## 👀 Work/Collaboration Opportunities
 
