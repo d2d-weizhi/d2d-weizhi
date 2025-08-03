@@ -34,9 +34,7 @@ For now, my goal remains the same, I want to focus on showcasing 3 web projects 
 
 ## 🌱 What I'm Learning Now
 
-I'm currently in the final stretch of my part-time post-Diploma course in UX Design & Management. So yeah, it's the final stretch. It is also why I'm taking a break from my portfolio work (updated as of 20th May). I'll still continue to work quietly and share my daily logs on the showcase project, but otherwise, I'm basically taking a step back while I focus on my top priorities.
-
-Something else that I'm learning now is Vue.js. Not because I think it is essential for my career progression. I'm choosing to learn more about it because I believe it will allow me to understand the difference between Vue and React. It would also allow me to craft my future technical articles in a way to help Vue developers to step into React. Vue, after all, is merely a stepping stone [an accelerator] into React development.
+I will update this section again soon.
 
 ## 📫 How to Contact Me
 
