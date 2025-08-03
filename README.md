@@ -15,7 +15,7 @@ In the course of pursuing my passions, I also discovered that my front-end skill
 
 I continue to remain open to working opportunities and freelance gigs. Over the years, I have discovered that my skills kept getting better only because of my vast exposure to different projects and the nature of the challenges that they each presented. I will continue to collaborate and work with companies because I believe that it would allow me to stay closer to the ground.
 
-For any consulting gigs, I'm currently charging S$75 an hour. 
+For any consulting gigs, I'm currently charging S$150 an hour. 
 
 I also offer referral fees to people that recommend projects to me that have been successfully completed. Any gigs that are <= S$10K, it's 5% referral fee. Anything beyond S$10K, the referral fee will go up to 10%. The largest amount of referral fee I have ever given is S$4,800.00 because the single project alone was worth S$48,000 from start to finish.
 
