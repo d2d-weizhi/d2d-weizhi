@@ -13,11 +13,12 @@ In the course of pursuing my passions, I also discovered that my front-end skill
 
 ## 👀 Work/Collaboration Opportunities
 
-I continue to remain open to working opportunities and freelance gigs. Over the years, I have discovered that my skills kept getting better only because of my vast exposure to different projects and the nature of the challenges that they each presented. I will continue to collaborate and work with companies because I believe that it would allow me to stay closer to the ground.
+I’m always open to select freelance, consulting, or collaboration opportunities in UX Engineering and Front-end Development, especially projects that align with my passion for meaningful, high-impact work.
 
-For any consulting gigs, I'm currently charging S$150 an hour. 
+If you have an idea, project, or partnership in mind, let’s talk!
+I’m happy to discuss how I can help you elevate your product or team.
 
-I also offer referral fees to people that recommend projects to me that have been successfully completed. Any gigs that are <= S$10K, it's 5% referral fee. Anything beyond S$10K, the referral fee will go up to 10%. The largest amount of referral fee I have ever given is S$4,800.00 because the single project alone was worth S$48,000 from start to finish.
+**Note:** I work at a senior/consulting level and my rates reflect the value, experience, and unique integration I bring. Let’s connect to see if we’re a good fit. I’ll be transparent about rates and expectations once I understand your needs.
 
 ## 🧑‍💻 Building Portfolio v2.0 (WIP)
 
