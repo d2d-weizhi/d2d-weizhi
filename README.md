@@ -4,12 +4,8 @@ Hey everyone! If this is your first time coming to my profile, my name is Weizhi
 
 In the course of pursuing my passions, I also discovered that my front-end skills (clearly we didn't call it that back then) began to shine forth. Today, I am known for a few key achievements:
 
-1. I become the highest earning freelancer in 2011.
-2. I have worked with local SMEs, startups and even global organizations like United Nations Environmental Programme.
-3. I'm a certified thought-leader in Agile UX since 2016.
-4. I'm a 4x featured technical writer.
-5. No. 1 Front-end Developer & UX Engineer
-6. Global Top Voices in the UX Industry
+1. Global Top Voices in the UX Industry
+2. I'm also the guy that created breadcrumbs -> step indicators -> form wizards -> accordions -> visual indicators in general. Billions of people interact with something that I've started in 2006. I am the guy that changed the world with a sticker on a fridge.
 
 ## 👀 Work/Collaboration Opportunities
 
