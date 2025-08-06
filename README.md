@@ -10,7 +10,7 @@ For years, we lived as fragments, sometimes showing the world our technical prow
 
 😄😇 Mr. Optimist/Hopeful: The youngest, the dreamer, the source of our relentless positivity and family-first focus. Also the "Mama's Boy"
 
-🖋🗣 Mr. PR: The gifted wordsmith, architect of every store and narrative, master of authentic communication. His words are mightier than most weapons, except maybe a light saber.
+🖋🗣 Mr. PR: The gifted wordsmith, architect of every story and narrative, master of authentic communication. His words are mightier than most weapons, except maybe a light saber.
 
 🤔📶 Mr Empathy/Melodrama: The middle brother, the sensitive soul, our connection to the hearts of users and clients, and a storyteller par excellence. He is also gay, and we embrace and love him still.
 
