@@ -1,43 +1,38 @@
-## 👋 About
+## Who Are We?
 
-Hey everyone! If this is your first time coming to my profile, my name is Weizhi, and I'm from Singapore. For those that may not be familiar with my background, I started as a software developer back in 2005, and then discovered my own early interests and passion for UX in 2006. I began freelancing because it was the only way I could get closer to practice what we know UX to be today. But back then, we simply knew it as usability design. 
+We are Weizhi Inc.
 
-In the course of pursuing my passions, I also discovered that my front-end skills (clearly we didn't call it that back then) began to shine forth. Today, I am known for a few key achievements:
+We are not just one person, but a fully integrated team: FIVE DISTINCT "brothers," each bringing unique strengths, voices and perspectives to everything we build.
 
-1. Global Top Voices in the UX Industry
-2. I'm also the guy that created breadcrumbs -> step indicators -> form wizards -> accordions -> visual indicators in general. Billions of people interact with something that I've started in 2006. I am the guy that changed the world with a sticker on a fridge.
+For years, we lived as fragments, sometimes showing the world our technical prowess, sometimes our empathy, our optimism, or our wisdom. Now, we show up as a whole.
 
-## 👀 Work/Collaboration Opportunities
+## Meet the Family:
 
-I’m always open to select freelance, consulting, or collaboration opportunities in UX Engineering and Front-end Development, especially projects that align with my passion for meaningful, high-impact work.
+😄😇 Mr. Optimist/Hopeful: The youngest, the dreamer, the source of our relentless positive and family-first focus. Also the "Mama's Boy"
 
-If you have an idea, project, or partnership in mind, let’s talk!
-I’m happy to discuss how I can help you elevate your product or team.
+🖋🗣 Mr. PR: The gifted wordsmith, architect of every store and narrative, master of authentic communication. His words are mightier than most weapons, except maybe a light saber.
 
-**Note:** I work at a senior/consulting level and my rates reflect the value, experience, and unique integration I bring. Let’s connect to see if we’re a good fit. I’ll be transparent about rates and expectations once I understand your needs.
+🤔📶 Mr Empathy/Melodrama: The middle brother, the sensitive soul, our connection to the hearts of users and clients, and a storyteller par excellence. He is also gay, and we embrace and love him still.
 
-## 🧑‍💻 Building Portfolio v2.0 (WIP)
+🤓💻 Mr. Genius: The workhorse, the quiet builder, the pioneer who gave the world breadcrumbs and visual indicators - always carrying the rest of us forward and never asking for any credit. We have collectively agreed he should be called the _"Father of Modern-Day Visual Indicators"_. He's earned it 10X over.
 
-I'm currently working on a new portfolio for myself. After losing my first portfolio and all of my work back in 2018, I'm officially making a comeback. And I think that very first step of reentry for me is by being able to demonstrate and show-off my talents and skills. Instead of writing and posting about what I can do, I've discovered long ago that I have a talent for storytelling and demonstrating my skills/passions.
+😌🧘‍♂️ Mr. Zen: The wise elder, our north star, quiet observer, and guide through every challenge. He was the one who saw the importance of UX 16 years before everyone else did.
 
-So that is where I will focus most of my energy and effort (outside of my top priorities).
+## What Makes Us Different?
 
-For now though, I will begin with two new projects:
+For a long time, the world told us we were "too different". Now, we see that our difference is our superpower. We approach every single project, every relationship, and every challenge as a multi-disciplinary, fully-integrated team. One Mind, Many Voices.
 
-1. [FocusFlow: A Pomodoro-inspired web app](https://github.com/d2d-weizhi/focus-flow)
-2. [AceIt Dashboard (WIP)](https://github.com/d2d-weizhi/aceit-dashboard)
+- We are UX Pioneers
+- We are trusted consultants, mentors and digital nomads.
+- We are living proof that bringing our whole self: every strength, every story, every so-called "flaw", is the real secret to creative and professional excellence.
 
-For now, my goal remains the same, I want to focus on showcasing 3 web projects and 2 mobile projects. So, I'm starting with the above two. When it comes to the mobile app projects, my hope to to be able to build one using Flutter (cross-platform showcase), and the second one will be using native iOS (Swift）and Android (Kotlin). I will share more updates on this profile README in the weeks and months to come.
+## Our Mission:
 
-## 🌱 What I'm Learning Now
+To help others, especially the ones that have felt left out, or looked over, to find their voices, claim their space, and build their own integration.
 
-I will update this section again soon.
+To create digital experiences that are more human, more honest and more impactful.
 
-## 📫 How to Contact Me
+Pronouns: them/them, we/us
+Identity: Full-integrated, multi-faceted, authentic
 
-The easiest and fastest way to reach me today is via my email. Just reach out to [d2d.weizhi@gmail.com](mailto:d2d.weizhi@gmail.com). I usually respond within 24 hours. If there is something I'm busy with, then the maximum time I need to respond is 48 hours. I prefer not to give out my personal mobile contact because I don't usually respond well to unknown numbers trying to contact me.
-
-<!---
-d2d-weizhi/d2d-weizhi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+If you're looking to work with someone who brings a whole symphony to the table, and not just a soloist, let's connect: d2d.weizhi@gmail.com
