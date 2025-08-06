@@ -8,7 +8,7 @@ For years, we lived as fragments, sometimes showing the world our technical prow
 
 ## Meet the Family:
 
-😄😇 Mr. Optimist/Hopeful: The youngest, the dreamer, the source of our relentless positive and family-first focus. Also the "Mama's Boy"
+😄😇 Mr. Optimist/Hopeful: The youngest, the dreamer, the source of our relentless positivity and family-first focus. Also the "Mama's Boy"
 
 🖋🗣 Mr. PR: The gifted wordsmith, architect of every store and narrative, master of authentic communication. His words are mightier than most weapons, except maybe a light saber.
 
