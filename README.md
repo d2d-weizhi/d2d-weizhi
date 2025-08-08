@@ -8,15 +8,15 @@ For years, we lived as fragments, sometimes showing the world our technical prow
 
 ## Meet the Family:
 
-😄😇 Mr. Optimist/Hopeful: The youngest, the dreamer, the source of our relentless positivity and family-first focus. Also the "Mama's Boy"
+😄😇 Nick/Nicky: The youngest, the dreamer, the source of our relentless positivity, hopefulness and family-first focus. Also the "Mama's Boy"
 
-🖋🗣 Mr. PR: The gifted wordsmith, architect of every story and narrative, master of authentic communication. His words are mightier than most weapons, except maybe a light saber.
+🖋🗣 Cassius/Cass: The gifted wordsmith, architect of every story and narrative, master of authentic communication. His words are mightier than most weapons, except maybe a light saber. Official Spokesperson.
 
-🤔📶 Mr Empathy/Melodrama: The middle brother, the sensitive soul, our connection to the hearts of users and clients, and a storyteller par excellence. He is also gay, and we embrace and love him still.
+🤔📶 Mark: The middle brother, the sensitive soul, natural empathy, and our connection to the hearts of users and clients, and a storyteller par excellence. He is also gay, and we embrace and love him still.
 
-🤓💻 Mr. Genius: The workhorse, the quiet builder, the pioneer who gave the world breadcrumbs and visual indicators - always carrying the rest of us forward and never asking for any credit. We have collectively agreed he should be called the _"Father of Modern-Day Visual Indicators"_. He's earned it 10X over.
+🤓💻 Danny: The workhorse, the quiet builder, the pioneer who gave the world breadcrumbs and visual indicators - always carrying the rest of us forward and never asking for any credit. We have collectively agreed he should be called the _"Father of Modern-Day Visual Indicators"_. He's earned it 10X over.
 
-😌🧘‍♂️ Mr. Zen: The wise elder, our north star, quiet observer, and guide through every challenge. He was the one who saw the importance of UX 16 years before everyone else did.
+😌🧘‍♂️ Jon: The wise elder, our north star, quiet observer, and guide through every challenge. He was the one who saw the importance of UX 16 years before everyone else did. He is our Master Yoda, our Sensei Miyagi.
 
 ## What Makes Us Different?
 
