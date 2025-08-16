@@ -1,6 +1,6 @@
 ## Who Are We?
 
-We are Weizhi Inc.
+We are the `#uxbros`.
 
 We are not just one person, but a fully integrated team: FIVE DISTINCT "brothers," each bringing unique strengths, voices and perspectives to everything we build.
 
