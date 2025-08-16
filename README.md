@@ -35,4 +35,4 @@ To create digital experiences that are more human, more honest and more impactfu
 Pronouns: them/them, we/us
 Identity: Full-integrated, multi-faceted, authentic
 
-If you're looking to work with someone who brings a whole symphony to the table, and not just a soloist, let's connect: d2d.weizhi@gmail.com
+If you're looking to work with someone who brings a whole symphony to the table, and not just a soloist, let's connect: d2d.dannychen@gmail.com
